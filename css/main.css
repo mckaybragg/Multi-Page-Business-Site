@@ -14,7 +14,10 @@ body {
 img {
     margin: 0 auto;
     display: block;
-
+    border-style: double;
+    border-radius: 30%;
+    border-color: darkcyan;
+    border-width: 4px;
 }
 h1 {
     text-align: center;
@@ -29,7 +32,7 @@ a{
 }
 
 a:hover {
-    color: crimson;
+    color: purple;
     border-style: solid;
 }
 
